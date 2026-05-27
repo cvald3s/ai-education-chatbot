@@ -1,7 +1,7 @@
 ---
-name: "Exact Links"
+name: "Upload Resources"
 workbook: "chapter_0"
-description: "AI Education Chatbot that prompts the student for the chapter 0 workbook. Resources are listed as exact links to the files on GitHub."
+description: "AI Education Chatbot that prompts the student for the chapter 0 workbook. Resources must be uploaded by the user."
 notes: "This is just for testing. We're asking the student to upload the answer key as part of the chat."
 ---
 

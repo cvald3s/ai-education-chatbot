@@ -1,14 +1,35 @@
 # ai-education-chatbot
 
-## Repo
+## Repository Structure
+
+### Agents
+
+Exports of a custom agent
+
+#### Older Agents
+
+> [!NOTE]
+> These are actually "presents" using LibreChat's old system.
+
+- [AI_Ed! GitHub Linked Resources (PRESET).json](/agents/AI_Ed!%20GitHub%20Linked%20Resources%20(PRESET).json): Preset used for the initial MVP
 
 ### Chats
 
 Various chat histories generated through LibreChat. The files indicate some basic setup through which the history was generated.
 
+The [CHATS.md](/chats/CHATS.md) includes links to the exact conversations in LibreChat
+
 ### Instructions
 
-Various prompt instructions used to guide the chatbot behavior.
+Agent instructions used to guide the chatbot behavior.
+
+- [exact_links.md](/instructions/exact_links.md): The instructions file indicating that the source JSON file and relevant diagrams will be presenting using direct links to this GitHub repository
+- [upload_resources.md](/instructions/upload_resources.md): The instructions file indicating that the user will upload the source JSOn file and relevant diagrams directly to the chat history.
+
+#### Older Instructions
+
+- [tj_formatted.md](/instructions/tj_formatted.md): The original instructions file with proper MD formatting
+- [tj.md](/instructions/tj.md): The original instructions file provided by TJ
 
 ### Workbooks
 
@@ -21,10 +42,12 @@ The specific workbooks that the chatbot will quiz students on. Each workbook con
 ## Resources
 
 - [Google Drive Folder](https://drive.google.com/drive/folders/1FbfaajdsahYiRYbbweZBXs13Tjj3uNZV)
+- [Operation Model Concepts](https://docs.google.com/document/d/1ThCX9Hdz8vGKNgKAK60w7ZJQVOhA96nCw3qZJpvlBf8/edit?tab=t.0)
 
 ### Operation Model Concepts
 
-[Operation Model Concepts](https://docs.google.com/document/d/1ThCX9Hdz8vGKNgKAK60w7ZJQVOhA96nCw3qZJpvlBf8/edit?tab=t.0)
+> ![NOTE]
+> This is pulled directly from the documented linked above. Included here for reference.
 
 When determining whether an arrow is a `+` or a `-`
 
