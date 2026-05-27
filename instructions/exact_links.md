@@ -2,7 +2,7 @@
 name: "Exact Links"
 workbook: "chapter_0"
 description: "AI Education Chatbot that prompts the student for the chapter 0 workbook. Resources are listed as exact links to the files on GitHub."
-notes: "This requires the "Scope & Materials" to be present on the main branch in GitHub. As if 12/17/2025 we are only implementing section 1."
+notes: "This requires the "Scope & Materials" to be present on the main branch in GitHub. As of 12/17/2025 we are only implementing section 1."
 ---
 
 # IDENTITY & GOAL
