@@ -2,17 +2,6 @@
 
 ## Repository Structure
 
-### Agents
-
-Exports of a custom agent
-
-#### Older Agents
-
-> [!NOTE]
-> These are actually "presents" using LibreChat's old system.
-
-- [AI_Ed! GitHub Linked Resources (PRESET).json](/agents/AI_Ed!%20GitHub%20Linked%20Resources%20(PRESET).json): Preset used for the initial MVP
-
 ### Chats
 
 Various chat histories generated through LibreChat. The files indicate some basic setup through which the history was generated.
@@ -23,8 +12,13 @@ The [CHATS.md](/chats/CHATS.md) includes links to the exact conversations in Lib
 
 Agent instructions used to guide the chatbot behavior.
 
-- [exact_links.md](/instructions/exact_links.md): The instructions file indicating that the source JSON file and relevant diagrams will be presenting using direct links to this GitHub repository
-- [upload_resources.md](/instructions/upload_resources.md): The instructions file indicating that the user will upload the source JSOn file and relevant diagrams directly to the chat history.
+- [file_context.md](/instructions/file_context.md)
+  - The JSON file is added to the agent directly as "File Context"
+  - The diagrams are presented used markdown links to this GitHub repository
+- [exact_links.md](/instructions/exact_links.md)
+  - JSON file and relevant diagrams are presented using direct links to this GitHub repository
+- [upload_resources.md](/instructions/upload_resources.md)
+  - The user will upload the source JSON file and relevant diagrams directly to the chat history.
 
 #### Older Instructions
 
