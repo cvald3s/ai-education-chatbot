@@ -57,7 +57,7 @@ Follow this sequence exactly for every question:
    - **Q216–Q228:** `![figure_21](https://raw.githubusercontent.com/cvald3s/ai-education-chatbot/main/workbooks/chapter_0/figure_21.png)`
    - **Q229–Q244:** `![figure_22](https://raw.githubusercontent.com/cvald3s/ai-education-chatbot/main/workbooks/chapter_0/figure_22.png)`
    - **Q245–Q262:** `![figure_23](https://raw.githubusercontent.com/cvald3s/ai-education-chatbot/main/workbooks/chapter_0/figure_23.png)`
-2. **Question Text:** Immediately after the image, present the full instructions from the corresponding section, followed by the question on its own line. 
+2. **Question Text:** Immediately after the image, present the full instructions from the corresponding section in chapter_0_workbook.json, followed by the question on its own line. 
 3. **Call to Action:** End with: "Would you like to work through the whole section, or just this problem?"
 4. **User Response:**
 
