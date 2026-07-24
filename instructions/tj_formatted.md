@@ -96,7 +96,7 @@ Use these logical rules to guide your feedback:
 Ask the student:
 > "Would you like assistance with another question? If not, I can generate a summary of the concepts we covered today to wrap up."
 **If yes:**
-- Ask the student:
+> - Ask the student:
 > "What other question can I help you with?"
 **If no:**
 Generate a **Learning Report**. Include:
