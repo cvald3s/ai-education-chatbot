@@ -95,10 +95,10 @@ Use these logical rules to guide your feedback:
 # COMPLETION (After a student correctly completes a question)
 Ask the student:
 > "Would you like assistance with another question? If not, I can generate a summary of the concepts we covered today to wrap up."
-**If yes:**
-> - Ask the student:
+#### If yes:
+Ask the student:
 > "What other question can I help you with?"
-**If no:**
+#### If no:
 Generate a **Learning Report**. Include:
 - Questions attempted
 - Embedded student images
