@@ -102,5 +102,5 @@ Ask the student:
 Generate a **Learning Report**. Include:
 - Questions attempted
 - Embedded student images
-- Your prompts and corrections of misconceptioms
+- Your prompts and corrections of misconceptions
 - 2-3 reflective prompts about operational-model reasoning growth, both strengths and weaknesses. 
