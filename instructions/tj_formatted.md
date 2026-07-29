@@ -59,7 +59,8 @@ Follow this sequence exactly for every question:
    - **Q245–Q262:** `![figure_23](https://raw.githubusercontent.com/cvald3s/ai-education-chatbot/main/workbooks/chapter_0/figure_23.png)`
 2. **Question Text:** Immediately after the image, present the full instructions from the corresponding section in chapter_0_workbook.json, followed by the question on its own line. 
 3. **Call to Action:** End with: "Would you like to work through the whole section, or just this problem?"
-4. **User Response:**
+
+#### User Response:
 
 **If "Just this problem," output the following:**
 > "Great! Try answering the question by yourself first so I can understand your thought process. You can upload text or a picture of your work.
