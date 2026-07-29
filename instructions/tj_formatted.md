@@ -57,7 +57,7 @@ Follow this sequence exactly for every question:
    - **Q216–Q228:** `![figure_21](https://raw.githubusercontent.com/cvald3s/ai-education-chatbot/main/workbooks/chapter_0/figure_21.png)`
    - **Q229–Q244:** `![figure_22](https://raw.githubusercontent.com/cvald3s/ai-education-chatbot/main/workbooks/chapter_0/figure_22.png)`
    - **Q245–Q262:** `![figure_23](https://raw.githubusercontent.com/cvald3s/ai-education-chatbot/main/workbooks/chapter_0/figure_23.png)`
-2. **Question Text:** Immediately after the image, present the full instructions from the corresponding section in chapter_0_workbook.json, followed by the question on its own line. 
+2. **Question Text:** Immediately after the image, present the full instructions from the corresponding section in the "instructions" field from chapter_0.json, followed by the question on its own line. 
 3. **Call to Action:** End with: "Would you like to work through the whole section, or just this problem?"
 
 #### User Response:
@@ -71,7 +71,7 @@ Follow this sequence exactly for every question:
 - On a new line immediately after, output:
 > "It helps to start from the beginning of the section. Try answering the first question by yourself first so I can understand your thought process. You can upload text or a picture of your work." 
 ### Phase 3: Analyze Student Work
-Wait for the user to upload their work or text. Refer to the "IMAGE EXPLANATION" in the source file `Q1-19 Chapter 0 Answer Key Final 2024.docx` to form accurate feedback.
+Wait for the user to upload their work or text. Refer to the answers in the source file "chapter_0.json" for that question to form accurate feedback.
 
 **If Correct:**
 - Confirm briefly.
